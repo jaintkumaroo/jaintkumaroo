@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaintkumaroo&label=Profile%20Views&color=ff7a45&style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-ff7a45?style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/jaintkumaroo?label=Followers&style=for-the-badge&color=ff7a45&labelColor=0d1117)
 
 <a href="https://www.linkedin.com/in/jaint-kumar-khajumal-7a53622a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
