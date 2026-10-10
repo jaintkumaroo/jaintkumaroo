@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff7a45,100:f5a97f&height=220&section=header&text=Jaint%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Dev%20%7C%20AI%2FML%20%7C%20Designer&descAlignY=60&descSize=16" width="100%"/>
+<img src="./banner.svg" alt="Jaint Kumar banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7A45&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jaint+Kumar;Final+Year+Computer+Systems+Engineer+%40+MUET;I+build+Flutter+apps+%F0%9F%93%B1;I+build+full-stack+web+platforms+%F0%9F%8C%90;I+train+ML+models+%F0%9F%A4%96;I+design+brands+and+posters+%F0%9F%8E%A8" alt="Typing SVG" />
@@ -131,6 +131,6 @@ I'm open to internships, junior roles, freelance work and team projects. If you 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a97f,50:ff7a45,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="./footer.svg" alt="footer" width="100%"/>
 
 </div>
